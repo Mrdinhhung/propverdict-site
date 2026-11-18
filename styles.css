@@ -43,6 +43,12 @@ a { text-decoration: none; color: inherit; }
   font-size: 15px;
 }
 .nav nav a:hover { color: #fff; }
+.lang-switch {
+  border: 1px solid rgba(255,255,255,.35);
+  border-radius: 6px;
+  padding: 4px 10px;
+  font-size: 13px;
+}
 
 .hero {
   background: linear-gradient(135deg, var(--navy), #1e3a8a);
