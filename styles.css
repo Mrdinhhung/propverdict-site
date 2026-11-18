@@ -1,0 +1,112 @@
+:root {
+  --navy: #0f172a;
+  --blue: #2563eb;
+  --bg: #f8fafc;
+  --text: #1e293b;
+  --muted: #64748b;
+  --card: #ffffff;
+  --border: #e2e8f0;
+}
+* { box-sizing: border-box; }
+body {
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
+  color: var(--text);
+  background: var(--bg);
+}
+.container {
+  max-width: 1100px;
+  margin: 0 auto;
+  padding: 0 24px;
+}
+a { text-decoration: none; color: inherit; }
+
+.site-header {
+  background: var(--navy);
+  color: #fff;
+}
+.nav {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  padding: 18px 24px;
+}
+.logo {
+  font-weight: 700;
+  font-size: 22px;
+  color: #fff;
+}
+.logo span { color: #60a5fa; }
+.nav nav a {
+  color: #cbd5e1;
+  margin-left: 24px;
+  font-size: 15px;
+}
+.nav nav a:hover { color: #fff; }
+
+.hero {
+  background: linear-gradient(135deg, var(--navy), #1e3a8a);
+  color: #fff;
+  padding: 80px 0;
+  text-align: center;
+}
+.hero h1 {
+  font-size: 34px;
+  max-width: 760px;
+  margin: 0 auto 16px;
+}
+.hero p {
+  color: #cbd5e1;
+  max-width: 620px;
+  margin: 0 auto 28px;
+  font-size: 16px;
+  line-height: 1.6;
+}
+.btn {
+  display: inline-block;
+  background: var(--blue);
+  color: #fff;
+  padding: 12px 28px;
+  border-radius: 8px;
+  font-weight: 600;
+}
+.btn:hover { background: #1d4ed8; }
+
+.coming-soon, .about {
+  padding: 56px 24px;
+}
+.coming-soon h1, .coming-soon h2, .about h2 {
+  font-size: 26px;
+  margin-bottom: 8px;
+}
+.muted { color: var(--muted); }
+
+.card-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+  gap: 16px;
+  margin-top: 24px;
+}
+.card {
+  background: var(--card);
+  border: 1px solid var(--border);
+  border-radius: 10px;
+  padding: 20px;
+}
+.card h3 { margin: 0 0 8px; }
+.status {
+  font-size: 13px;
+  color: var(--blue);
+  margin: 0;
+}
+
+.about { background: #fff; border-top: 1px solid var(--border); }
+.about p { line-height: 1.7; color: var(--text); max-width: 760px; }
+
+.site-footer {
+  background: var(--navy);
+  color: #94a3b8;
+  padding: 24px 0;
+  text-align: center;
+  font-size: 14px;
+}
