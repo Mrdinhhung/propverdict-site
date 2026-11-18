@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://mrdinhhung.github.io/propverdict-site/sitemap.xml
