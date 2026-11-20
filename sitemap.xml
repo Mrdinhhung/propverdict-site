@@ -21,6 +21,14 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://propverdict.io/drawdown-la-gi.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://propverdict.io/loi-thuong-gap-fail-challenge.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://propverdict.io/en/</loc>
     <priority>1.0</priority>
   </url>
@@ -38,6 +46,14 @@
   </url>
   <url>
     <loc>https://propverdict.io/en/what-is-prop-trading.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://propverdict.io/en/what-is-drawdown.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://propverdict.io/en/common-mistakes-fail-challenge.html</loc>
     <priority>0.8</priority>
   </url>
 </urlset>
