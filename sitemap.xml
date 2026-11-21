@@ -33,6 +33,14 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://propverdict.io/chia-loi-nhuan-la-gi.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://propverdict.io/mot-buoc-vs-hai-buoc-challenge.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://propverdict.io/en/</loc>
     <priority>1.0</priority>
   </url>
@@ -62,6 +70,14 @@
   </url>
   <url>
     <loc>https://propverdict.io/en/common-mistakes-fail-challenge.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://propverdict.io/en/profit-split-explained.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://propverdict.io/en/one-step-vs-two-step-challenge.html</loc>
     <priority>0.8</priority>
   </url>
 </urlset>
