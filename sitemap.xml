@@ -49,6 +49,14 @@
     <priority>0.8</priority>
   </url>
   <url>
+    <loc>https://propverdict.io/thefxp-review.html</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://propverdict.io/scaling-plan-la-gi.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
     <loc>https://propverdict.io/en/</loc>
     <priority>1.0</priority>
   </url>
@@ -94,6 +102,14 @@
   </url>
   <url>
     <loc>https://propverdict.io/en/consistency-rule-explained.html</loc>
+    <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://propverdict.io/en/thefxp-review.html</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://propverdict.io/en/scaling-plan-explained.html</loc>
     <priority>0.8</priority>
   </url>
 </urlset>
