@@ -73,6 +73,18 @@
     <priority>0.9</priority>
   </url>
   <url>
+    <loc>https://propverdict.io/orionfunded-review.html</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://propverdict.io/fundedtradermarkets-review.html</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://propverdict.io/fundedtradingplus-review.html</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
     <loc>https://propverdict.io/news-trading-la-gi.html</loc>
     <priority>0.8</priority>
   </url>
@@ -151,5 +163,17 @@
   <url>
     <loc>https://propverdict.io/en/news-trading-rule-explained.html</loc>
     <priority>0.8</priority>
+  </url>
+  <url>
+    <loc>https://propverdict.io/en/orionfunded-review.html</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://propverdict.io/en/fundedtradermarkets-review.html</loc>
+    <priority>0.9</priority>
+  </url>
+  <url>
+    <loc>https://propverdict.io/en/fundedtradingplus-review.html</loc>
+    <priority>0.9</priority>
   </url>
 </urlset>
